@@ -1,4 +1,4 @@
-# 🦠 Malaria Diagnosis using Convolutional Neural Networks
+# Malaria Diagnosis using Convolutional Neural Networks
 
 ## 📌 Project Overview
 
